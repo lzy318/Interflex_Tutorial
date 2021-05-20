@@ -4,7 +4,7 @@ This package performs diagnostic tests of multiplicative interaction models and 
 
 **Authors**: Jens Hainmueller, Jonathan Mummolo, Yiqing Xu and Ziyi Liu (maintainer)
 
-Please email all comments/questions to zyliu2020@uchicago.edu.
+Please email any comments/questions to zyliu2020@uchicago.edu.
 
 **Reference**: How Much Should We Trust Estimates from Multiplicative Interaction Models? Simple Tools to Improve Empirical Practice. Political Analysis, Vol. 27, Iss. 2, April 2019, pp. 163–192.
 
