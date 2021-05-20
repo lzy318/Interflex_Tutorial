@@ -1,0 +1,9 @@
+
+title: [Interflex Tutorial]
+description: [Producing flexible marginal effect estimates with multiplicative interaction models.]
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-leap-day
+github:
+  CRAN: https://cran.r-project.org/web/packages/interflex/index.html
+  Github: https://github.com/xuyiqing/interflex
